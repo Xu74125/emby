@@ -24,11 +24,11 @@ DOMAIN,alphatvapp.top
 
 # > younplus
 DOMAIN,plus.younoyes.com
-DOMAIN-SUFFIX,youyes.567741.xyz
+DOMAIN,https://youyes.567741.xyz
 
 # > ME
-DOMAIN-SUFFIX,mpme.mebimmer.de
-DOMAIN-SUFFIX,spme.mebimmer.de
+DOMAIN,mpme.mebimmer.de
+DOMAIN,spme.mebimmer.de
 
 垃圾影音
 DOMAIN-SUFFIX,loseremby.org
