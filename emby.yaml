@@ -1,31 +1,33 @@
-DOMAIN-KEYWORD,oceancloud,Emby
-DOMAIN-SUFFIX,yunhai.laodaemby.xyz,DIRECT
-DOMAIN-KEYWORD,567741,DIRECT
-DOMAIN,akali.paoluma.de,DIRECT
-DOMAIN,cctv.paoluma.de,Emby
-DOMAIN,rjggde.xytx.org,DIRECT
-DOMAIN,rjggcf.rjf37.com,Emby
-DOMAIN-SUFFIX,wf.vban.xyz,Emby
-DOMAIN-SUFFIX,embymv.link,Emby
-DOMAIN-SUFFIX,emby.365115.xyz,Emby
-DOMAIN-SUFFIX,eggtartemby.itsmyduty.top,Emby
-DOMAIN-SUFFIX,my.embylife.xyz,Emby
-DOMAIN,lum.clun.top,DIRECT
-DOMAIN-SUFFIX,levilde.clun.top,Emby
-DOMAIN-SUFFIX,emby.liminalnet.com,Emby
-DOMAIN-SUFFIX,plus.younoyes.com,Emby
-DOMAIN-SUFFIX,xxlb.net,Emby
-DOMAIN-SUFFIX,69yun69.com,Emby
-DOMAIN-KEYWORD,mefun,Emby
-DOMAIN-SUFFIX,wenjian.de,Emby
-DOMAIN,diaojinping.de,Emby
-DOMAIN-KEYWORD,paolufu,DIRECT
-DOMAIN-KEYWORD,cn2gias,Emby
-DOMAIN-SUFFIX,cf.xmsl.org,Emby
-DOMAIN-SUFFIX,cf.lilyemby.my,Emby
-DOMAIN-KEYWORD,dogloglog,DIRECT
-DOMAIN-SUFFIX,rjggdebwg.rjf37.com,DIRECT
-DOMAIN-SUFFIX,rjdd.xylyra.com,DIRECT
-DOMAIN-SUFFIX,rjgghk.rjf37.com,DIRECT
-DOMAIN-SUFFIX,rjgg.xytx.org,DIRECT
-DOMAIN-SUFFIX,rjggusbwg.rjf37.com,DIRECT
+#======================================#
+#更新时间 2026-1-1
+#======================================#
+
+# > 云海18
+DOMAIN,nsfw.oceancloud.asia
+
+# > 墨云阁
+DOMAIN,spme.mebimmer.de
+DOMAIN,mpme.mebimmer.de
+
+# > 跑路瑟瑟
+DOMAIN,woyaoshe.paoluma.de
+
+# > 明天倒闭
+DOMAIN,embycdn.sexemby.com
+DOMAIN,cdn.sexemby.com
+
+# > 阿尔法
+DOMAIN,abs.alphatvapp.top
+DOMAIN,music.204cloud.com
+DOMAIN,alphatvapp.top
+
+# > younplus
+DOMAIN,plus.younoyes.com
+DOMAIN-SUFFIX,youyes.567741.xyz
+
+# > ME
+DOMAIN-SUFFIX,mpme.mebimmer.de
+DOMAIN-SUFFIX,spme.mebimmer.de
+
+垃圾影音
+DOMAIN-SUFFIX,loseremby.org
