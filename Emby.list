@@ -9,8 +9,9 @@ DOMAIN,nsfw.oceancloud.asia
 DOMAIN,spme.mebimmer.de
 DOMAIN,mpme.mebimmer.de
 
-# > 跑路瑟瑟
+# > 跑路
 DOMAIN,woyaoshe.paoluma.de
+DOMAIN,cctv.paoluma.de
 
 # > 明天倒闭
 DOMAIN,embycdn.sexemby.com
@@ -31,3 +32,9 @@ DOMAIN-SUFFIX,spme.mebimmer.de
 
 垃圾影音
 DOMAIN-SUFFIX,loseremby.org
+
+桃子
+DOMAIN-SUFFIX,embymv.link
+
+lily
+DOMAIN,lilyemby.my
